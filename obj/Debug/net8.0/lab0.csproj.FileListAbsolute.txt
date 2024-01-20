@@ -1,0 +1,15 @@
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\bin\Debug\net8.0\lab0.exe
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\bin\Debug\net8.0\lab0.deps.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\bin\Debug\net8.0\lab0.runtimeconfig.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\bin\Debug\net8.0\lab0.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\bin\Debug\net8.0\lab0.pdb
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.AssemblyInfoInputs.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.AssemblyInfo.cs
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.sourcelink.json
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\refint\lab0.dll
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.pdb
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\lab0.genruntimeconfig.cache
+C:\Users\Ahmad Baker\OneDrive\Desktop\CPRG211G\labs\lab0\obj\Debug\net8.0\ref\lab0.dll
